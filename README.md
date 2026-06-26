@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Samiul Hasan Sojib 👋
 
-<!--
-**samiulhasansojib/samiulhasansojib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Full Stack Web Developer
 
-Here are some ideas to get you started:
+I'm passionate about learning modern web development and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- MongoDB
+
+### 💼 Experience
+- Lead Generation Specialist
+- Data Entry
+
+### 🛠 Skills
+HTML • CSS • JavaScript • Git • GitHub • Lead Generation • Data Entry
+
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/samiul-hasan-sojib-a3359440b
+- Email: samiulhasansojib069@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
