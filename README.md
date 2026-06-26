@@ -1,6 +1,9 @@
 # Hi, I'm Samiul Hasan Sojib 👋
 
 ## 🚀 Aspiring Full Stack Web Developer
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
 
 I'm passionate about learning modern web development and building real-world projects.
 
